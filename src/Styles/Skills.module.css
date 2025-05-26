@@ -1,0 +1,32 @@
+/* src/styles/Skills.module.css */
+
+.skills {
+  max-width: 600px;
+  margin: 3rem auto;
+  background-color: #ffffff;
+  padding: 2.5rem 3rem;
+  border-radius: 15px;
+  box-shadow: 0 6px 15px rgba(44, 62, 80, 0.1);
+  color: #34495e;
+}
+
+.skills h2 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #2471a3;
+  font-weight: 700;
+}
+
+.skills ul {
+  list-style: none;
+  padding: 0;
+  font-size: 1.15rem;
+  color: #555;
+}
+
+.skills li {
+  margin: 0.8rem 0;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #d5dfe8;
+}

@@ -1,0 +1,39 @@
+/* src/styles/Contact.module.css */
+
+.contact {
+  max-width: 600px;
+  margin: 3rem auto 5rem;
+  background-color: #ffffff;
+  padding: 2.5rem 3rem;
+  border-radius: 15px;
+  box-shadow: 0 6px 15px rgba(44, 62, 80, 0.1);
+  color: #34495e;
+  text-align: center;
+}
+
+.contact h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1.2rem;
+  color: #2471a3;
+  font-weight: 700;
+}
+
+.contact ul {
+  list-style: none;
+  padding: 0;
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.contact li {
+  margin: 0.7rem 0;
+}
+
+.contact a {
+  color: #2980b9;
+  font-weight: 600;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
