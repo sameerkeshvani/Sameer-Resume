@@ -1,4 +1,4 @@
-import styles from '../styles/Skills.module.css'
+import styles from '../Styles/Skills.module.css'
 
 const Skills = () => {
   const skills = [

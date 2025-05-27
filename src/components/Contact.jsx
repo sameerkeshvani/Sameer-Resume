@@ -1,4 +1,4 @@
-import styles from '../styles/Contact.module.css'
+import styles from '../Styles/Contact.module.css'
 
 const Contact = () => (
   <section className={styles.contact}>

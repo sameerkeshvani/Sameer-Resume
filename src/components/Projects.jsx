@@ -1,4 +1,4 @@
-import styles from '../styles/Projects.module.css'
+import styles from '../Styles/Projects.module.css'
 import ProjectCard from './ProjectCard'
 
 const Projects = () => {

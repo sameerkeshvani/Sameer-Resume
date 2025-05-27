@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import styles from '../styles/Navbar.module.css'
+import styles from '../Styles/Navbar.module.css'
 import myphoto from '../assets/myphoto.jpg'
 
 const Navbar = () => (

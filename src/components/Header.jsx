@@ -1,4 +1,4 @@
-import styles from '../styles/Header.module.css'
+import styles from '../Styles/Header.module.css'
 
 const Header = ({ name, title }) => (
   <div className={styles.header}>
